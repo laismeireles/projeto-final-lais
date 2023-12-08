@@ -39,4 +39,6 @@ https://portaldatransparencia.gov.br/download-de-dados/auxilio-brasil #Portal da
 ## FERRAMENTAS UTILIZADAS
 Para desenvolver esse projeto, desenvolvi uma análise exploratória de dados do Ministério de Desenvolvimento Social, extraídos da base do Cadastro Único e disponibilizados no banco de dados abertos do governo. Para a análise, utilizei o python, pandas, matplotlib. Por fim, o Tableau foi utilizado para gerar a visualização das análises.
 
-Lista de siglas??
+## Insights e visualizações
+
+[Dashboard disponível do Tableau com a visualização dos dados analisados neste projeto](https://public.tableau.com/app/profile/lais.meireles.alves/viz/projeto_final_reprograma_lais/resumo)
