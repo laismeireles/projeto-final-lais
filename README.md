@@ -24,7 +24,7 @@ O [Benefício de Prestação Continuada](https://www.gov.br/mds/pt-br/acoes-e-pr
 
 ### Objetivos gerais e específicos do projeto
 
-O objetivo geral desse projeto é identificar quais marcadores sociais .....
+O objetivo geral desse projeto é caracterizar a população que integra o Cadastro Único na cidade de Campinas considerando os marcadores sociais de gênero, raça/cor e idade. 
 
 O objetivo específico do projeto é construir um indicador da taxa de cobertura do programa Bolsa Família na cidade de Campinas/SP, diante da hipótese de que existe uma lacuna entre famílias cadastradas e famílias atendidas: *haveria famílias no Cadastro Único que atendem os critéiros de inclusão do Bolsa Família mas não estão contempladas pelo programa?*
 
@@ -42,3 +42,5 @@ Para desenvolver esse projeto, desenvolvi uma análise exploratória de dados do
 ## Insights e visualizações
 
 [Dashboard disponível do Tableau com a visualização dos dados analisados neste projeto](https://public.tableau.com/app/profile/lais.meireles.alves/viz/projeto_final_reprograma_lais/resumo)
+
+(/Users/laismeirelesalves/Estudos/projeto_final_lais_meireles/imagens/tx cobertura-3.png)
