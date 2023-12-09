@@ -43,4 +43,4 @@ Para desenvolver esse projeto, desenvolvi uma análise exploratória de dados do
 
 [Dashboard disponível do Tableau com a visualização dos dados analisados neste projeto](https://public.tableau.com/app/profile/lais.meireles.alves/viz/projeto_final_reprograma_lais/resumo)
 
-![Taxa de cobertura do PBF em Campinas de 2018 a 2023](/Users/laismeirelesalves/Estudos/projeto_final_lais_meireles/graficos/tx cobertura-3.png)
+![Taxa de cobertura do PBF em Campinas de 2018 a 2023](graficos/tx cobertura-3.png)
